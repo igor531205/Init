@@ -4,5 +4,3 @@ teftelka)
 
 catanddog))
 cotletka)
-
-fd
